@@ -1,0 +1,38 @@
+nohup: ignoring input
+listening on *:3000
+{
+  "auth": {
+    "result": "success", 
+    "username": "admin"
+  }
+}
+{
+  "auth": {
+    "result": "success", 
+    "username": "admin"
+  }
+}
+{
+  "auth": {
+    "result": "success", 
+    "username": "admin"
+  }
+}
+{
+  "auth": {
+    "result": "success", 
+    "username": "admin"
+  }
+}
+{
+  "auth": {
+    "result": "success", 
+    "username": "admin"
+  }
+}
+{
+  "auth": {
+    "result": "success", 
+    "username": "admin"
+  }
+}
